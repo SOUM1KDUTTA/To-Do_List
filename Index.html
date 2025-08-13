@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 Daily Tasks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Daily Tasks</h1>
+        <form id="todo-form">
+            <input type="text" id="todo-input" placeholder="Add a new task"
+            required
+           >
+           <input type="date" id="due-date">
+           <select id="priority">
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+          </select>
+            <button type="submit">Add task</button>
+            </form>
+        <ul id="todo-list"></ul>    
+    </div>
+    <script src="script.js"></script>
+</body> 
+</html>
