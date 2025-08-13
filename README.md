@@ -14,8 +14,7 @@ Live version: [Open the To-Do List app](https://to-do-list-teal-ten-34.vercel.ap
 - [Usage](#usage)  
 - [Code Structure](#code-structure)  
 - [Installation](#installation)  
-- [Contributing](#contributing)  
-- [License](#license)
+- [Contributing](#contributing) 
 
 ---
 
